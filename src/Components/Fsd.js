@@ -8,11 +8,11 @@ const data=[
         caption:"Best Ways to Learn Full Stack Development in 2024"
     },
     {
-        img:"https://www.guvi.in/blog/full-stack-developer-vs-software-engineer/",
+        img:"https://www.guvi.in/blog/wp-content/uploads/2023/08/Feature-image-Best-Full-Stack-Development-Online-Courses.webp",
         caption:"The Ultimate Guide to Real-World Full-Stack Development Applications"
     },
     {
-        img:"https://www.guvi.in/blog/product-based-companies-for-full-stack-developers/",
+        img:"https://www.guvi.in/blog/wp-content/uploads/2023/07/best-way-to-learn-full-stack-development-1536x804.webp",
         caption:"Top 10 Tools Every Full-Stack Developer Should Master"
     },
     {
