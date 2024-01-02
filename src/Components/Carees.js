@@ -1,6 +1,6 @@
 const data=[
     {
-        img:"https://www.guvi.in/blog/wp-content/uploads/2023/07/feature-image-UIUX-Designer-Roles-Responsibilities-Job-Description.jpg",
+        img:"https://www.guvi.in/blog/wp-content/uploads/2023/12/Feature-image-Top-IT-Jobs-for-Commerce-Students.webp",
         caption:"UI/UX Designer Job Description and Roles & Responsibilities"
     },
     {
