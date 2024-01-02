@@ -8,7 +8,7 @@ const data=[
         caption:"Best Ways to Learn Full Stack Development in 2024"
     },
     {
-        img:"https://www.guvi.in/blog/wp-content/uploads/2023/08/The-Ultimate-Guide-to-Real-World-Full-Stack-Development-Applications-1536x804.png",
+        img:"https://www.guvi.in/blog/wp-content/uploads/2023/08/The-Ultimate-Guide-to-Real-World-Full-Stack-Development-Applications-1536x804.webp",
         caption:"The Ultimate Guide to Real-World Full-Stack Development Applications"
     },
     {
