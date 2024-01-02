@@ -8,19 +8,19 @@ const data=[
         caption:"Types of Hacking & More"
     },
     {
-        img:"https://www.guvi.in/blog/wp-content/uploads/2022/12/Yellow-Blue-Illustration-Business-Blog-Banner-1536x864.png",
+        img:"https://www.guvi.in/blog/wp-content/uploads/2023/09/Feature-image-Useful-Python-Libraries-and-Tools-For-Data-Science-Beginners.webp",
         caption:"Cybersecurity Vs Ethical Hacking"
     },
     {
-        img:"https://www.guvi.in/blog/wp-content/uploads/2022/12/cybersecuity-.gif",
+        img:"https://www.guvi.in/blog/wp-content/uploads/2023/11/top-ways-to-assess-soft-skills-in-full-stack-developers.webp",
         caption:" Importance and its uses & the growing challenges"
     },
     {
-        img:"https://www.guvi.in/blog/wp-content/uploads/2022/11/Teal-Illustration-Digital-Business-Blog-Banner-1-1536x864.png",
+        img:"https://www.guvi.in/blog/wp-content/uploads/2023/12/Feature-image-Non-Coding-Jobs-in-Cybersecurity.webp",
         caption:"Types of Cybersecurity and Threats Involved"
     },
     {
-        img:"https://www.guvi.in/blog/wp-content/uploads/2022/06/8bfd01c18be1b5059bc0d7770d9dabf1.gif",
+        img:"https://www.guvi.in/blog/wp-content/uploads/2023/12/Feature-image-Non-Coding-Jobs-in-Cybersecurity.webp",
         caption:"Is coding required for cybersecurity"
     },
 
